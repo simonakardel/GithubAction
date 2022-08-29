@@ -28,4 +28,4 @@ jobs:
     runs-on: macos-latest
     steps:
       - name: macOS
-        run: java -v
+        run: java -version
