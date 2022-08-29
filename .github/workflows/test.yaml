@@ -24,3 +24,8 @@ jobs:
       - name: directory bash
         run: pwd
         shell: bash
+  run-mac-command:
+    runs-on: macos-latest
+    steps:
+      - name: macOS
+        run: java -v
