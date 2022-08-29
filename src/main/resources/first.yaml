@@ -1,0 +1,29 @@
+name: Simona
+age: 27
+address: "Gertrude Steins Vej"
+active: true
+
+key:
+  key1: value1
+  key2: value2
+  key3: value3
+
+jsonObject: { key: value, key2: value2}
+
+jobArray:
+  -item1
+  -item2
+
+myArray:
+  -item1
+  - {name : Tine, age : 27 }
+
+longText: >
+  kdjkfkjd fdkjdjkfkjd djkdjk
+  djfkjdkjd
+  djkdkj
+
+nolfText: |
+  jkdkjdjkd
+  ls a-
+  pwd
