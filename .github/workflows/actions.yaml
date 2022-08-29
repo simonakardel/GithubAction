@@ -6,6 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Simple JS Action
-        uses: https://github.com/actions/hello-world-javascript-action
+        uses: https://github.com/actions/hello-world-javascript-action.git
         with:
           who-to-greet: Simona
